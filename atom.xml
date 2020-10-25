@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://EmmettPeng.github.io</id>
+    <id>https://emmettpeng.github.io</id>
     <title>Gridea</title>
-    <updated>2020-10-25T14:36:07.314Z</updated>
+    <updated>2020-10-25T14:36:25.837Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://EmmettPeng.github.io"/>
-    <link rel="self" href="https://EmmettPeng.github.io/atom.xml"/>
+    <link rel="alternate" href="https://emmettpeng.github.io"/>
+    <link rel="self" href="https://emmettpeng.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://EmmettPeng.github.io/images/avatar.png</logo>
-    <icon>https://EmmettPeng.github.io/favicon.ico</icon>
+    <logo>https://emmettpeng.github.io/images/avatar.png</logo>
+    <icon>https://emmettpeng.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://EmmettPeng.github.io/post/hello-gridea/</id>
-        <link href="https://EmmettPeng.github.io/post/hello-gridea/">
+        <id>https://emmettpeng.github.io/post/hello-gridea/</id>
+        <link href="https://emmettpeng.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
